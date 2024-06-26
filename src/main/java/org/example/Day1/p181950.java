@@ -1,9 +1,9 @@
-package org.example;
-// 출력문자, 횟수 받아서 반복하기
+package org.example.Day1;
+// 문자열 반복해서 출력하기
 import java.util.Scanner;
 
 // public : java 파일의 주인 객체 이름.
-public class test3 {
+public class p181950 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

@@ -1,8 +1,7 @@
-package org.example;
+package org.example.Day1;
 //특수문자 출력
-import java.util.Scanner;
 
-public class test5 {
+public class p181948 {
     public static void main(String[] args) {
         System.out.println("!@#$%^&*(\\'\"<>?:;");
     }

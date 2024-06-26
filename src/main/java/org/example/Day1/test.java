@@ -1,8 +1,8 @@
-package org.example;
+package org.example.Day1;
 // 홀짝 확인하기
 import java.util.Scanner;
 
-public class test1 {
+public class test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

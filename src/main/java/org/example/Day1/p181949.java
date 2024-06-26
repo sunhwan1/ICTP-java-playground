@@ -1,8 +1,8 @@
-package org.example;
+package org.example.Day1;
 // 대소문자 변환
 import java.util.Scanner;
 
-public class test4 {
+public class p181949 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
