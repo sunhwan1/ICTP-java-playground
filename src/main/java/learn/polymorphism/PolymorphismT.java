@@ -1,4 +1,4 @@
-package polymorphism;
+package learn.polymorphism;
 
 interface Barkable {
     void bark();

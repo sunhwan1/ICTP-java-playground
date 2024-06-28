@@ -1,4 +1,4 @@
-package polymorphism;
+package learn.polymorphism;
 
 public class Bouncer {
     void barkAnimal(Animal animal){

@@ -1,4 +1,4 @@
-package org.example.mapexample;
+package learn.mapexample;
 
 class Person {
     String id; String pw;

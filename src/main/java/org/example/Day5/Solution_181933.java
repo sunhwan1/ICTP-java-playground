@@ -1,3 +1,5 @@
+package org.example.Day5;
+
 class Solution_181933 {
 
 

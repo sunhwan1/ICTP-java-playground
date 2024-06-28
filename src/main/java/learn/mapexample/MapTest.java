@@ -1,4 +1,4 @@
-package org.example.mapexample;
+package learn.mapexample;
 
 import java.util.HashMap;
 
