@@ -2,7 +2,7 @@ package org.example.Day2;
 //문자열 겹쳐쓰기
 import java.util.Scanner;
 
-public class p181943 {
+public class P181943 {
     public static String solution(String my_string, String overwrite_string, int s) {
         // my_string.substring(0, s) 0 ~ s-1 까지의 문자 + overwrite_string(입력받은 값 그대로) + my_string.substring(s + overwrite_string.length()(overwrite_string 이후의 남은 문자)
         return my_string.substring(0, s) + overwrite_string + my_string.substring(s + overwrite_string.length());

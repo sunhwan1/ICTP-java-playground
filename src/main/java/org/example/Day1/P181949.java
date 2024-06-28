@@ -2,7 +2,7 @@ package org.example.Day1;
 // 대소문자 변환
 import java.util.Scanner;
 
-public class p181949 {
+public class P181949 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();

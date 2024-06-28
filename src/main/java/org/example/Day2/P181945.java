@@ -3,7 +3,7 @@ package org.example.Day2;
 
 import java.util.Scanner;
 
-        public class p181945 {
+        public class P181945 {
             public static void main(String[] args) {
                 Scanner sc = new Scanner(System.in);
                 String input = sc.next();

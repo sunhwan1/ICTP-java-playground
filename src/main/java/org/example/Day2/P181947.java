@@ -2,7 +2,7 @@ package org.example.Day2;
 // 덧셈식 출력하기
 import java.util.Scanner;
 
-public class p181947 {
+public class P181947 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
